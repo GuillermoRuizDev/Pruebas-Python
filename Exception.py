@@ -1,3 +1,4 @@
+#Funcion creada para provar exception
 def divisor(num):
     divisors = []
     for i in range(1, num+1):
